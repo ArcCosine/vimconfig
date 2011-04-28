@@ -4,3 +4,7 @@
 _viminfo
 .ssh/
 .vim/
+
+.bash_history
+.unite/
+.vimshell/

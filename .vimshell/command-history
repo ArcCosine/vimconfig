@@ -1,0 +1,15 @@
+git add .
+gvim .gitignore
+ls -pola
+git commit
+gvim _vimrc
+ls -la
+rm test.php
+rm _vimrc~
+ls 
+shell test.php
+gvim.exe test.php
+ls
+exit
+:q
+exit()
