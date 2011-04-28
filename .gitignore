@@ -2,9 +2,9 @@
 
 .gitconfig
 _viminfo
+.bash_history
+
 .ssh/
 .vim/
-
-.bash_history
-.unite/*
-.vimshell/*
+.unite/
+.vimshell/

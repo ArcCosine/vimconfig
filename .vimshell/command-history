@@ -1,7 +1,12 @@
 git add .
 vim .gitignore
-vim _vimrc
+vim .ignore
+git show
+git --help
+git list
+git log
 git commit
+vim _vimrc
 gvim _vimrc
 ls -pla
 gvim .gitignore
