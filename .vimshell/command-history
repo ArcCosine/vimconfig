@@ -1,8 +1,11 @@
 git add .
-gvim .gitignore
-ls -pola
+vim .gitignore
+vim _vimrc
 git commit
 gvim _vimrc
+ls -pla
+gvim .gitignore
+ls -pola
 ls -la
 rm test.php
 rm _vimrc~

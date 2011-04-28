@@ -33,6 +33,11 @@ Bundle 'tpope/vim-surround.git'
 Bundle 'thinca/vim-quickrun.git'
 Bundle 'mattn/zencoding-vim.git'
 
+
+"Escの2回押しでハイライト消去
+nmap <ESC><ESC> ;nohlsearch<CR><ESC>
+
+
 "Zen Coding用
 let g:user_zen_settings = {
 \'lang': "ja"

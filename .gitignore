@@ -6,5 +6,5 @@ _viminfo
 .vim/
 
 .bash_history
-.unite/
-.vimshell/
+.unite/*
+.vimshell/*
