@@ -27,12 +27,11 @@ call vundle#rc()
 Bundle 'Shougo/neocomplcache.git'
 Bundle 'Shougo/vimshell.git'
 Bundle 'Shougo/unite.vim.git'
-Bundle 'Shougo/git-vim'
 Bundle 'Shougo/vimproc'
 Bundle 'tpope/vim-surround.git'
 Bundle 'thinca/vim-quickrun.git'
 Bundle 'mattn/zencoding-vim.git'
-
+Bundle 'tpope/vim-fugitive'
 
 "Escの2回押しでハイライト消去
 nmap <ESC><ESC> ;nohlsearch<CR><ESC>

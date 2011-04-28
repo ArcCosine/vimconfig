@@ -4,6 +4,7 @@
 _viminfo
 .bash_history
 
+.neocon/
 .ssh/
 .vim/
 .unite/
