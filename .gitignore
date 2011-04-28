@@ -1,0 +1,5 @@
+#ignore files
+
+.gitconfig
+_viminfo
+.ssh/
