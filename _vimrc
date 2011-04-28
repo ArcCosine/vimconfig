@@ -42,6 +42,9 @@ let g:user_zen_settings = {
 \'lang': "ja"
 \}
 
+"neocomplcache用
+let g:neocomplcache_enable_at_startup = 1 
+
 "バッファ系
 au BufNewFile,BufRead * set tabstop=4 shiftwidth=4
 au BufNewFile,BufRead *.rhtml set tabstop=2 shiftwidth=2
